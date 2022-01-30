@@ -22,3 +22,5 @@
     ],
     "license": "MIT"
 }
+mongodb@~3.6.0,
+mongoose@~5.4.0
